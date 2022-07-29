@@ -9757,16 +9757,16 @@ I've put random lines of appreciation to my team everywhere here. If you're a tr
 "Belinda.Dialogue.random.20" : "ที่แห่งนี้น่าเบื่อเสียจริง!$a#$b#ข้าต้องการความบันเทิง!$h",
 
 //Before Festivals
-"Belinda.Dialogue.spring_12": "The festival of thanksgiving has been turned into a festival of eggs.#$b#Humans are quite bizarre.#$e#Oh, well. Whatever keeps you mortals entertained.$h#$b#Enjoy yourselves tomorrow, dear.",
-"Belinda.Dialogue.spring_23": "My beloved adores the festivities of tomorrow.#$b#I never understood why, but whatever makes her smile is decent enough for me.$h",
-"Belinda.Dialogue.summer_10": "For centuries, I never understood the purpose of your festival tomorrow.#$b#Good luck to you all if ever a mischievous spirit donates a poisonous ingredient.$h",
-"Belinda.Dialogue.summer_27": "Raeriyala and I shall visit the Lunaloos tomorrow night.$4#$b#They are great company.$h",
-"Belinda.Dialogue.fall_15": "My oh my, a fair!$h#$b#Your grandmother used to drag us to visit that noisy festival.#$b#Ah, she was an angel.$4#$e#Enjoy yourselves tomorrow, dear farmer.$h",
-"Belinda.Dialogue.fall_19": "This mountain loves the energy the locals give out with tomorrow's festivities.#$b#At least, that's what my beloved tells me.$h",
-"Belinda.Dialogue.fall_26": "Be wary tomorrow night, dear farmer.$a#$b#Gabriella loves to mess around with towns during these types of festivals.$a",
-"Belinda.Dialogue.winter_7": "Fish? I'm only interested in the linked fishes of this mountain.#$b#The ones that resemble some of the locals of the village.#$e#I wonder how that phenomenon started.$4",
-"Belinda.Dialogue.winter_24": "The spirit of the frost will visit tomorrow.#$b#He's quite a festive fellow.$h",
-"Belinda.Dialogue.winter_27": "The spirit of resolutions was born from hopes and dreams of mortals.#$b#She's quite a strange one, always asleep yet always motivated to do more.#$b#A reflection of the promises and dreams of mortals, perhaps?$4",
+"Belinda.Dialogue.spring_12": "เทศกาลขอบคุณพระเจ้า ได้กลายเป็น เทศกาลไข่อีสเตอร์แล้ว#$b#มนุษย์ค่อนข้างยากแท้หยั่งถึง#$e#แต่ก็เอาเถอะ ในเมื่อมันสร้างความรื่นรมย์ ให้พวกมนุษย์ได้ก็นะ$h#$b#ขอให้สนุกกับวันพรุ่งนี้นะ",
+"Belinda.Dialogue.spring_23": "คนรักข้าชอบ เทศกาลวันพรุ่งนี้มาก#$b#ข้าไม่เคยเข้าใจเลยว่าทำไม แต่สิ่งใดก็ตาม ที่ทำให้นางยิ้มได้ ก็ดีพอสำหรับข้าแล้ว$h",
+"Belinda.Dialogue.summer_10": "ข้าไม่เคยเข้าใจ จุดประสงค์ของเทศกาล ที่มีในวันพรุ่งนี้ มานานหลายศตวรรษแล้ว#$b#หากมีภูตตัวป่วน มาอภินันทนาการส่วนผสมพิษ ก็ขอให้พวกเจ้าทุกคน โชคดีแล้วกัน$h",
+"Belinda.Dialogue.summer_27": "เรย์ริยาลากับข้า จะไปเยี่ยมเยียนชาวลูนาลู คืนพรุ่งนี้$4#$b#พวกมันเป็นมิตรสหาย ที่แสนดีมากเลย$h",
+"Belinda.Dialogue.fall_15": "โอ้คุณพระ งานเทศกาล!$h#$b#ย่าเจ้าเคยลากพวกเราไป เทศกาลเอ็ดตะโรนั่นด้วย#$b#อ่า ท่านคือ นางฟ้ามาโปรดเสียจริง$4#$e#ขอให้สนุกในวันพรุ่งนี้นะ เจ้าชาวไร่$h",
+"Belinda.Dialogue.fall_19": "ภูเขาลูกนี้ ชอบพลังงานที่ชาวบ้าน จะปลดปล่อยออกมา ในเทศกาลวันพรุ่งนี้มาก#$b#อย่างน้อย คนรักก็บอกข้ามาแบบนั้นนะ$h",
+"Belinda.Dialogue.fall_26": "จงระวังตัวในคืนพรุ่งนี้ด้วย เจ้าชาวไร่$a#$b#กาเบรียลลา ชอบเล่นพิเรนทร์กับชาวเมือง ในช่วงเทศกาลแบบนี้ล่ะ$a",
+"Belinda.Dialogue.winter_7": "ปลาเหรอ? ข้าสนใจแต่ ปลาที่มีความเกี่ยวเนื่องกัน ของภูเขาลูกนี้เท่านั้น#$b#ซึ่งเป็นปลาที่มีลักษณะเหมือน บางคนในหมู่บ้านเลย#$e#อยากรู้จังว่า ปรากฏการณ์แบบนี้ เกิดขึ้นได้อย่างไร$4",
+"Belinda.Dialogue.winter_24": "ภูตแห่งน้ำค้างแข็ง จะมาเยือนในวันพรุ่งนี้#$b#เขาเป็นพ่อหนุ่มที่ค่อนข้างชอบ การเฉลิมฉลองน่ะ$h",
+"Belinda.Dialogue.winter_27": "จิตวิญญาณแห่งปณิธาน กำเนิดจากความหวัง และความฝันของมนุษย์ปุถุชน#$b#นางเป็นคนที่ ค่อนข้างแปลกเสียหน่อย มักหลับใหลอยู่เสมอ ทว่ามีแรงจูงใจ ที่จะทำสิ่งต่างๆ มากยิ่งขึ้นไปอีก#$b#บางทีนี่คงเป็นภาพสะท้อนของ คำสัญญา และความฝันของมวลมนุษย์$4",
 
 //BLISS DIALOGUE
 "keahiprank.Bliss": "You should pay more attention to hygiene.",
